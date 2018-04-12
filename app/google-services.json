@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902945008296",
+    "firebase_url": "https://gocompanion-b4ca8.firebaseio.com",
+    "project_id": "gocompanion-b4ca8",
+    "storage_bucket": "gocompanion-b4ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902945008296:android:4182e3115aa6c360",
+        "android_client_info": {
+          "package_name": "com.kingpuller.gocompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902945008296-8ak6mqkoslqou0ii067qfkder8hbk3cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingpuller.gocompanion",
+            "certificate_hash": "bbc1be3dfcf0530cb20655d9533b6b0501c76a5e"
+          }
+        },
+        {
+          "client_id": "902945008296-8h7oc9n6ttv6lqdlflonq6vctdapd3t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy1rbVQMYvQM-ErdOA8gQdAn1Dj_Bxqeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902945008296-8h7oc9n6ttv6lqdlflonq6vctdapd3t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

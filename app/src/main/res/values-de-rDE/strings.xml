@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Go+ Companion</string>
+    <string name="service_running">Service läuft</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="service_not_running">Service läuft nicht</string>
+    <string name="start_service">Service starten</string>
+    <string name="stop_service">Service stoppen</string>
+    <string name="connection_lost">GO Plus Verbindung unterbrochen</string>
+    <string name="tap_to_open">Berühren um Pokemon GO zu öffnen</string>
+    <string name="notification_title">GO Plus wird geboosted</string>
+    <string name="notification_battery_level">Aktueller Batteriestand ist %1$d%%</string>
+    <string name="connecting">GO Plus wird verbunden…</string>
+    <string name="notification_service_title">Service läuft</string>
+    <string name="notification_service_content">Zum Starten verbinde dein GO Plus</string>
+    <string name="help">Die App setzt automatisch die Bluetooth Verbindungspriorität auf hoch für dein GO Plus, was in wesentlich schnelleren Reaktionszeiten resultieren sollte. Außerdem wirst du benachrichtigt, sobald die Verbindung zum GO Plus unterbrochen wird und du kannst den Batteriestand ablesen. \n\n Beachte: Dies könnte unter Umständen mehr Energie verbrauchen</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="pref_header_notifications">Benachrichtigungen</string>
+    <string name="pref_title_ringtone">Benachrichtungston</string>
+    <string name="pref_ringtone_silent">Stumm</string>
+    <string name="pref_title_vibrate">Vibrieren</string>
+    <string name="pref_title_vibrate_lengths">Vibrationslänge in ms</string>
+    <string name="pref_title_vibrate_counts">Vibrationsanzahl</string>
+    <string name="pref_group_connection_lost">"Benachrichtigungen bei Verbindungsabbruch "</string>
+    <string name="connecting_failed">Verbindung fehlgeschlagen</string>
+    <string name="battery_dialog_positive">Zu den Einstellungen</string>
+    <string name="battery_dialog_negative">Abbrechen</string>
+    <string name="battery_dialog_message">Damit die App im Hintergrund nicht geschlossen wird, sollten die Batterieoptimierungen deaktiviert werden</string>
+    <string name="battery_dialog_error">Ein Fehler ist aufgetreten. Bitte whiteliste die App manuell</string>
+    <string name="battery_dialog_neutral">Nicht mehr erinnern</string>
+</resources>
